@@ -1,0 +1,4 @@
+#Thu Jun 01 15:43:25 KST 2017
+base.0=/Users/JunHee/AndroidStudioProjects/Contacts/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/JunHee/AndroidStudioProjects/Contacts/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
